@@ -38,7 +38,7 @@ The magnifying glass next to the image of the mouse wheel will enable you to zoo
 ![wheel](Images/hvplot_navigator_wheel_zoom.png?raw=True)
 
 The disk button will allow you to save a copy of the chart to your computer.
-![save](Images/hvplot_nagivator_save.png?raw=True)
+![save](Images/hvplot_navigator_save.png?raw=True)
 
 This button will reset the chart to it's default display.
 ![reset](Images/hvplot_navigator_reset.png?raw=True)
